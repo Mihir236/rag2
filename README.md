@@ -4,26 +4,14 @@
 
 ---
 
-## 📖 Overview
-Advanced pipeline for Retrieval-Augmented Generation featuring dense retrieval and hybrid search.
+## 📋 Project Specifications
 
----
-
-## 📊 Project Specifications
-
-### 1. Dataset Details
-* **Source**: User document collection
-* **Size**: 2,000+ semantic chunks
-
-### 2. Method & Approach
-* **Approach**: Hybrid sparse/dense retrieval combined with a vector database index
-* **Metric/Result**: Achieved 15% higher retrieval precision compared to basic keyword search
-
-### 3. Tech Stack & Tools
-* **Technologies**: Python, LangChain, FAISS, SentenceTransformers
-
-### ✨ Differentiating Features
-- **Includes query reformulation to rewrite user questions into optimal search vectors**
+* **Overview**: "Advanced pipeline for Retrieval-Augmented Generation featuring dense retrieval and hybrid search."
+* **Dataset**: "User document collection, 2,000+ semantic chunks"
+* **Method**: "Hybrid sparse/dense retrieval combined with a vector database index"
+* **Results**: "Achieved 15% higher retrieval precision compared to basic keyword search"
+* **Tech stack**: "Python, LangChain, FAISS, SentenceTransformers"
+* **Unique feature**: "Includes query reformulation to rewrite user questions into optimal search vectors"
 
 ---
 
